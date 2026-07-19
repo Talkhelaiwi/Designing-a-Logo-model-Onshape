@@ -65,10 +65,6 @@ The repository includes an exported STL file that can be used in slicing softwar
 
 ---
 
-## Onshape Design Link
-
-Paste your Onshape project link here:
-https://your-onshape-link
 
 ---
 
@@ -86,4 +82,6 @@ Designing-a-Logo-model-Onshape/
 
 ## Author
 
-Name:
+Name:Turki Alkhelaiwi
+
+Smart Methods Summer Training
